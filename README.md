@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Ishwari Jadhav
 
-<!--
-**Ishwari-Jadhav/Ishwari-Jadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software developer focused on **logic building**, **problem solving**, and **clean coding practices**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- Strong foundation in **core programming concepts**
+- Regularly practicing **logic-building and data structure problems**
+- Experience with multiple programming languages
+- Building projects and assignments using **Git & GitHub**
+
+---
+
+## 💻 Technical Skills
+- **Languages:** C, C++, Java, JavaScript, Python  
+- **Core Areas:**  
+  - Logic Building & Advanced Logic  
+  - Data Structures  
+  - Problem Solving  
+  - Arrays, Strings, Matrix  
+  - Dynamic Memory Allocation  
+- **Tools:** VS Code, Git, GitHub
+
+---
+
+## 📂 Work & Practice
+- Topic-wise repositories for **C, C++, Java, JavaScript, and Python**
+- **9+ hands-on projects**
+- Dedicated repositories for:
+  - Logic Building
+  - Advanced Logic Building
+  - Data Structures
+
+---
+
+## 🎯 Goals
+- Build strong software development fundamentals
+- Improve algorithmic and problem-solving skills
+- Prepare for technical interviews
+
+---
+
+> 💡 *Consistency and strong fundamentals define good software developers.*
