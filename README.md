@@ -26,7 +26,7 @@ Aspiring software developer focused on **logic building**, **problem solving**, 
 
 ## 📂 Work & Practice
 - Topic-wise repositories for **C, C++, Java, JavaScript, and Python**
-- **7+ hands-on projects**
+- **8+ hands-on projects**
 - Dedicated repositories for:
   - Logic Building
   - Advanced Logic Building
