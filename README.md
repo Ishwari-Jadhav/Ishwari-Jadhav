@@ -13,7 +13,7 @@ Aspiring software developer focused on **logic building**, **problem solving**, 
 ---
 
 ## 💻 Technical Skills
-- **Languages:** C, C++, Java, JavaScript, Python  
+- **Languages:** C, C++, Java | Basic: Python, JavaScript  
 - **Core Areas:**  
   - Logic Building & Advanced Logic  
   - Data Structures  
